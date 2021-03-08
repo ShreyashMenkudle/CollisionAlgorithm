@@ -1,2 +1,2 @@
-# CollisionAlgorithm
-Be self reliable.
+# collisionAlgorithm
+Algorithm to detect collision between two objects
