@@ -1,0 +1,2 @@
+# CollisionAlgorithm
+Be self reliable.
